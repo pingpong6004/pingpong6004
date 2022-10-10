@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pingpong6004
 - 👀 I’m interested in video games, music and tech of course
 - 🌱 I’m currently studying computer science at the University of Augsburg
-- 💞️ The languages I speak are Emglish and German
+- 💞️ The languages I speak are English and German
 - 📫 You can reach me at @pingpong6004 on Twitter
 
 <!---
